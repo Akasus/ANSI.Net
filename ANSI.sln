@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANSI", "ANSI\ANSI.csproj", "{599B5F98-FB9D-4400-9E0A-8B1945A2F80F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02D88869-0784-4E54-BF65-E41BD0E2A18E}"
+	ProjectSection(SolutionItems) = preProject
+		ANSI.sln.nuspec = ANSI.sln.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599B5F98-FB9D-4400-9E0A-8B1945A2F80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599B5F98-FB9D-4400-9E0A-8B1945A2F80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599B5F98-FB9D-4400-9E0A-8B1945A2F80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599B5F98-FB9D-4400-9E0A-8B1945A2F80F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E750F1-4A59-44F1-87FE-2C696AB91B18}
+	EndGlobalSection
+EndGlobal
